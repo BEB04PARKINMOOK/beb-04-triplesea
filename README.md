@@ -14,6 +14,10 @@ cd client/
 
 npm install
 
+# 실행
+
+cd client/
+
 npm run dev
 
 
